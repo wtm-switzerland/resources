@@ -12,6 +12,7 @@
 #### The Talk
 
 [Speechless & improvisation](https://app.luminpdf.com/viewer/2Qed5EspovAx4neDT?sk=c704b929-8451-4fa5-96b1-8c46c17e9ec5) by WTM and Speechless <br>
+[Public speaking pro tips](https://www.youtube.com/playlist?list=PLNBb8OktVDKt_WpKsIdpQPayDmj8haJqA) by WTM <br>
 
 #### Tips for First-Time Conference Speakers
 
