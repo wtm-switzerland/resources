@@ -19,7 +19,8 @@
 [Ten Tips for First-Time Conference Speakers](https://blog.kjamistan.com/ten-tips-for-first-time-conference-speakers/) by Kjamistan Inc <br>
 
 ### Code of Conduct (CoC)
-[When a CoC](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa) by Karolina Szczur <br>
+[Why have a CoC?](http://www.ethics.org/resources/free-toolkit/code-of-conduct) by ECI <br>
+[When a CoC becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa) by Karolina Szczur <br>
 
 ### Official Material Global CFP Day
 [Schedule](https://www.globaldiversitycfpday.com/schedule) by Global Diversity CFP Day
