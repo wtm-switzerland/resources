@@ -6,7 +6,7 @@
 [How to write a successful conference proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur <br>
 
 #### Choose a conference
-
+[How and why to speak at conferences](https://hackernoon.com/how-and-why-to-speak-at-tech-conferences-1d50a3f548e0) by Nick Heiner <br>
 [Conferences I won't be speaking at](https://medium.com/@fox/conferences-i-wont-be-speaking-at-a60b9beed97b) by Karolina Szczur <br>
 
 #### The Talk
