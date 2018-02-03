@@ -29,8 +29,9 @@ Find CFPs <br>
 [Why have a CoC?](http://www.ethics.org/resources/free-toolkit/code-of-conduct) by ECI <br>
 [When a CoC becomes harmful](https://medium.com/@fox/when-a-code-of-conduct-becomes-harmful-1d4e737ff7aa) by Karolina Szczur <br>
 
-#### Official Material Global CFP Day
-[Schedule](https://www.globaldiversitycfpday.com/schedule) by Global Diversity CFP Day
+#### Material Global CFP Day
+[Schedule](https://www.globaldiversitycfpday.com/schedule) by Global Diversity CFP Day <br>
+[Takeaways from the CFP day](https://medium.com/confrere/be-a-conference-speaker-takeaways-from-the-global-diversity-cfp-day-in-berlin-f1f51401f5d2) by Ida Aalen <br>
 
 #### Creating slides & preparing your talk
 [Accessibility in slides: best practices](https://github.com/Gorcenski/accessible-slides) by Gorcenski <br>
