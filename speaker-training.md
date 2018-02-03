@@ -5,7 +5,7 @@
 
 [How to write a successful conference proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur <br>
 
-Find CFPs
+Find CFPs <br>
 [papercall.io](https://www.papercall.io/) <br>
 [Global diversity CFP day](https://www.globaldiversitycfpday.com/cfps) <br>
 [Speaker Hub](https://speakerhub.com/) <br>
