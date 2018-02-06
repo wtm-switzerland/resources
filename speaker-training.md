@@ -4,6 +4,7 @@
 #### CFP - Writing a proposal
 
 [How to write a successful conference proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur <br>
+[On Collecting No's (how to deal with rejections)](http://glasnt.com/blog/2017/04/11/on-collecting-nos.html) by Katie McLaughlin <br>
 
 Find CFPs <br>
 [papercall.io](https://www.papercall.io/) <br>
