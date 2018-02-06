@@ -23,7 +23,9 @@ Find CFPs <br>
 
 #### Tips for First-Time Conference Speakers
 
-[Things I wish I'd known](https://medium.com/@sophie.koonin/things-i-wish-id-known-tips-for-first-time-conference-speakers-ffa4ca438ea) by Sophie Koonin <br>[Advice for new speakers](http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/) by vmbrasseur <br>
+[Things I wish I'd known](https://medium.com/@sophie.koonin/things-i-wish-id-known-tips-for-first-time-conference-speakers-ffa4ca438ea) by Sophie Koonin <br>
+[Advice for new speakers](http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/) by VM Brasseur <br>
+[Public Speaking Github Repository](https://github.com/vmbrasseur/Public_Speaking) by VM Brasseur <br>
 [Ten Tips for First-Time Conference Speakers](https://blog.kjamistan.com/ten-tips-for-first-time-conference-speakers/) by Kjamistan Inc <br>
 
 #### Code of Conduct (CoC)
