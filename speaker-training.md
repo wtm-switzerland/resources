@@ -40,6 +40,7 @@ Find CFPs <br>
 [Accessibility in slides: best practices](https://github.com/Gorcenski/accessible-slides) by Gorcenski <br>
 [Preparing a talk in pieces](https://cate.blog/2017/05/25/preparing-a-talk-in-pieces/) by Cate Huston <br>
 [How to make your talk live-tweetable](https://t.co/nzz2IuZU1L) by Jess Unrein <br>
+[Collection of tips for great presentations](http://eleganthack.com/category/high-performing-teams/communication/presentation-tips/)
 
 Tools <br>
 [Slides from markdown](https://www.decksetapp.com/) <br>
