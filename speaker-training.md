@@ -1,6 +1,10 @@
 
 ## Resources for conference speakers
 
+#### General
+
+[speaking.io](http://speaking.io/) is a comprehensive resource all around public speaking with a ton of tips and tricks.
+
 #### CFP - Writing a proposal
 
 [How to write a successful conference proposal](https://medium.com/@fox/how-to-write-a-successful-conference-proposal-4461509d3e32) by Karolina Szczur <br>
